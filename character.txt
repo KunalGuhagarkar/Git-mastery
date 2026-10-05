@@ -1,3 +1,7 @@
+==========
+CHARACTERS
+==========
+
 Kunal - A Smart Software Developer
 
 Tom - A Cat whose sole purpose is to catch Jerry
